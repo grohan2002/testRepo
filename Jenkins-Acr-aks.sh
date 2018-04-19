@@ -1,4 +1,4 @@
-# Pipeline Script for ACR and AKS collaboration
+# Pipeline Script for ACR and AKS collaboration . You should have a vaild Microsoft account for this to work
 
 node {
       // Mark the code checkout 'stage'....
