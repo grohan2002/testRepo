@@ -1,4 +1,4 @@
-#You should have a vaild Microsoft account .
+
 
 node {
       // Mark the code checkout 'stage'....
