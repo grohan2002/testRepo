@@ -1,4 +1,4 @@
-#You should have a vaild Microsoft account for this to work . Additionally configure ACR and AKS before moving into this.
+#You should have a vaild Microsoft account .
 
 node {
       // Mark the code checkout 'stage'....
